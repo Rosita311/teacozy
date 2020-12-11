@@ -1,0 +1,45 @@
+/* Universal Styles */
+body {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+}
+
+/* Header section */
+header {
+    border-bottom: 1px solid seashell;
+    display: flex;
+    position: fixed;
+    height: 69px;
+    width: 100%;
+    align-items: center;
+    z-index: 1;
+    top: 0;
+}
+
+header img {
+    height: 50px;
+    margin-left: 10px;
+}
+
+nav {
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+li a {
+    color: seashell;
+    text-decoration: underline;
+    text-align: center;
+    margin: 10px;
+}
+
+/* Mission section*/
