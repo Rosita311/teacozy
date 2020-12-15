@@ -9,7 +9,7 @@ body {
 }
 
 main {
-    margin: auto;
+    margin: auto; 
     max-width: 1300px;
 }
 /* Header section */
@@ -58,6 +58,7 @@ li a {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: auto;
 }
 
 .our-mission {
@@ -75,6 +76,7 @@ h2, h4 {
 #featured {
     width: 1000px;
     border: 1px solid red;
+    margin: auto;
 }
 
 .featured-tea {
