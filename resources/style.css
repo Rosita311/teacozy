@@ -4,13 +4,13 @@ body {
     font-size: 22px;
     color: seashell;
     background-color: black;
-    opacity: 0.6;
     text-align: center;
 }
 
 main {
     margin: auto; 
     max-width: 1300px;
+    
 }
 /* Header section */
 header {
